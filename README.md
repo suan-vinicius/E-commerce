@@ -39,7 +39,11 @@ Back-End
     # Entrar no Diretório.
     cd E-commerce
 
-    # Instalar as Dependências.
+    # Instalar as Dependências do Server.
+    npm install
+
+    #Instalar as Dependências do Client.
+    cd client
     npm install
 
     # Iniciar o Projeto.
